@@ -1,3 +1,5 @@
+## In order to view all plots go to : https://nbviewer.jupyter.org/github/murtihash/Retail-Analysis/blob/master/Walmart%20Retail%20Analysis.ipynb
+
 # Retail-Analysis
 # Context
 The Challenge - One challenge of modeling retail data is the need to make decisions based on limited history. Holidays and select major events come once a year, and so does the chance to see how strategic decisions impacted the bottom line. In addition, markdowns are known to affect sales – the challenge is to predict which departments will be affected and to what extent.
